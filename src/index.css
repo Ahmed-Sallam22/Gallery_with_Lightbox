@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root
+{
+    --main-color:black;
+    --light-color:white;
+    --mainbackground-color:black;
+    --rating-color:#FF2E00;
+}
+
+
