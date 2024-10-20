@@ -24,7 +24,7 @@ Follow these steps to install the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ahmed-Sallam22/Gallery_with_Lightbox.git
 
 2. Navigate to the project directory:
 cd <project-directory>
